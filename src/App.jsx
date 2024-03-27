@@ -5,7 +5,6 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  console.log("🚀 ~ file: App.jsx:8 ~ App ~ count:", count);
 
   return (
     <>
