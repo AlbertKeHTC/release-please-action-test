@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/AlbertKeHTC/release-please-action-test/compare/v1.0.0...v1.1.0) (2024-03-27)
+
+
+### Features
+
+* remove logo ([446ea7e](https://github.com/AlbertKeHTC/release-please-action-test/commit/446ea7e92081eed4a281e2b85752e7bf70cbbae3))
+
 ## 1.0.0 (2024-03-27)
 
 
